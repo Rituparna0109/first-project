@@ -1,2 +1,2 @@
 # first-project
-website on kashi use HTML and css 
+website on kashi use HTML and css and javascript
